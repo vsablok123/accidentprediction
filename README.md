@@ -41,3 +41,7 @@ The model was deployed on a local server using Flask. The webpages were created 
 The goal of creating an accurate pattern recognition for accidents was successful. The accuracy achieved was very good (0.92). I further used the model to identify the accident prone clusters(Hotspots) and figure out the features which make each of them unsafe. This could help organisations to take note of what changes could be done to prevent these. Also, we could identify accident hotspots with similar features using clustering/Pearson's method, so that developments in one locality could be used to help other localities. 
 
 Another thing, I would like to try is to create an end to end app, where a user enters the starting and ending point and the time frame in which he wants to travel. The app could determine the best time to take the journey based on weather, accident-predictor model, night-time considerations etc. 
+
+Reference Links ->
+https://towardsdatascience.com/live-prediction-of-traffic-accident-risks-using-machine-learning-and-google-maps-d2eeffb9389e   
+https://medium.com/geoai/using-machine-learning-to-predict-car-accident-risk-4d92c91a7d57
