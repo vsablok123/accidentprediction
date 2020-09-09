@@ -42,6 +42,6 @@ The goal of creating an accurate pattern recognition for accidents was successfu
 
 Another thing, I would like to try is to create an end to end app, where a user enters the starting and ending point and the time frame in which he wants to travel. The app could determine the best time to take the journey based on weather, accident-predictor model, night-time considerations etc. 
 
-Reference Links ->
+Reference Links ->   
 https://towardsdatascience.com/live-prediction-of-traffic-accident-risks-using-machine-learning-and-google-maps-d2eeffb9389e   
 https://medium.com/geoai/using-machine-learning-to-predict-car-accident-risk-4d92c91a7d57
