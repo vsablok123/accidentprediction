@@ -18,7 +18,7 @@ The data was taken from Kaggle. It contained US Accident data over a period of 5
 
 I found good insights from data visualisations which helped me in choosing the relevant features. 
 
-For example, there are significantly higher number of accidents in the weekdays compared to weekends. Also, the accidents are more in August until december due to colder weather and correspondingly adverse weather conditions. The above data also correlated well with the population data of cities in Florida. 
+For example, there are significantly higher number of accidents in the weekdays compared to weekends. Also, the accidents are more in August until december due to colder weather and correspondingly adverse weather conditions. The above data also correlated well with the population data of cities in Texas. 
 
 The weather conditions were given in a long text format so I used NLTK Library to extract the "Weather Keyword". Also, the latitude and longitude features are relevant but they have lot of variability. Instead I used DBScan clustering to cluster all accident points into divisions and used ony that cluster as a feature.  
 
